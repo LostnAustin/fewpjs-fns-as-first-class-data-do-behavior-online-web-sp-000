@@ -10,13 +10,13 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
-  let String = (0, 24)
+
 function greet(String) {
-  if String < 12
+  if (String < 12 && String > 0)
     return "Good Morning"
-    elsif String == 12
+  if String == 12 && String > 17)
     return "Good Afternoon"
-    elsif String > 12 && time < 25
+  if (String > 17 && String < 25)
     return "Good Evening"
 }
 
