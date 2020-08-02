@@ -23,7 +23,7 @@ function greet(String) {
 }
 
 /* Write your implementation of displayMessage() */
-  let response = function greet(String);
+  let response = function greet(String)
   function displayMessage(response) {
     document.getElementById('greeting').innerText = response;
   }
