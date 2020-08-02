@@ -12,6 +12,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 
 function greet(String) {
+  const time = parseInt(String)
   if (String < 12 && String > 0)
     return "Good Morning"
   if String == 12 && String > 17)
